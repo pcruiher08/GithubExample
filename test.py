@@ -7,3 +7,6 @@ for i in range(3 * n):
     print(i)
 
 # david balleza was here
+
+for i in range(4 * n):
+    print("Hola")
